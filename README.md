@@ -1,6 +1,10 @@
 # renju
 
+Аналог игры Рейндзю. Спортивный вариант крестиков-ноликов по 5 в ряд.
+
 [![Build Status](https://travis-ci.org/cmc-haskell-2016/renju.svg?branch=master)](https://travis-ci.org/cmc-haskell-2016/renju)
+
+![Conway Life](screenshots/1/jpg)
 
 ## Установка и запуск
 
