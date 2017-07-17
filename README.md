@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/cmc-haskell-2016/renju.svg?branch=master)](https://travis-ci.org/cmc-haskell-2016/renju)
 
-![Conway Life](screenshots/1/jpg)
+![Conway Life](screenshots/1.jpg)
 
 ## Установка и запуск
 
